@@ -1,2 +1,0 @@
-# MusicPurchase
-Basic programming concepts
